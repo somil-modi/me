@@ -178,7 +178,7 @@ nav ul li a:hover::after{
     font-weight: 300;
     border-radius: 10px;
     transition: background 0.5s, transform 0.5s;
-    text-align: centeer;
+    text-align: center;
 }
 
 .services-list div i{
